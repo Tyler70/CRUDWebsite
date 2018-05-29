@@ -1,2 +1,3 @@
 # CRUDWebsite
-These are the files that I used in order to create my CRUD website
+Author/Creator of this website: Tyler Muchow
+In the creating of my website I used many online materials to help me guide my code, aswell as using classmates to help correct spelling errors in my code which messed me up alot. In order to make this website I used HTML, CSS, Javascript and Php, all to create a website that can alter a databases contents. The intent of my website was to make a database system that a company like MARCUS could use to show when movies were playing at a certain location, so that an employee may eaisly lookup any movie and when it was playing. In order to start using the website all you do is either add a new movie and showtime into the database or you can browse the current movies that are playing. If a movies showtime is on a past date, you are allowed to delete it from the database and/or edit the movie to be showed at a later time/date. 
